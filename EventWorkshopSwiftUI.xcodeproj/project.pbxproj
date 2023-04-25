@@ -11,7 +11,6 @@
 		54FDDCC029F7CD5A005C27FA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54FDDCBF29F7CD5A005C27FA /* ContentView.swift */; };
 		54FDDCC229F7CD5C005C27FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54FDDCC129F7CD5C005C27FA /* Assets.xcassets */; };
 		54FDDCC529F7CD5C005C27FA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54FDDCC429F7CD5C005C27FA /* Preview Assets.xcassets */; };
-		54FDDCC729F7CD5C005C27FA /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54FDDCC629F7CD5C005C27FA /* Persistence.swift */; };
 		54FDDCCA29F7CD5C005C27FA /* EventWorkshopSwiftUI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 54FDDCC829F7CD5C005C27FA /* EventWorkshopSwiftUI.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
@@ -21,7 +20,6 @@
 		54FDDCBF29F7CD5A005C27FA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		54FDDCC129F7CD5C005C27FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54FDDCC429F7CD5C005C27FA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		54FDDCC629F7CD5C005C27FA /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		54FDDCC929F7CD5C005C27FA /* EventWorkshopSwiftUI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = EventWorkshopSwiftUI.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,7 +56,6 @@
 				54FDDCBD29F7CD5A005C27FA /* EventWorkshopSwiftUIApp.swift */,
 				54FDDCBF29F7CD5A005C27FA /* ContentView.swift */,
 				54FDDCC129F7CD5C005C27FA /* Assets.xcassets */,
-				54FDDCC629F7CD5C005C27FA /* Persistence.swift */,
 				54FDDCC829F7CD5C005C27FA /* EventWorkshopSwiftUI.xcdatamodeld */,
 				54FDDCC329F7CD5C005C27FA /* Preview Content */,
 			);
@@ -143,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54FDDCC729F7CD5C005C27FA /* Persistence.swift in Sources */,
 				54FDDCCA29F7CD5C005C27FA /* EventWorkshopSwiftUI.xcdatamodeld in Sources */,
 				54FDDCC029F7CD5A005C27FA /* ContentView.swift in Sources */,
 				54FDDCBE29F7CD5A005C27FA /* EventWorkshopSwiftUIApp.swift in Sources */,
